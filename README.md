@@ -22,9 +22,9 @@ Served as **Product Manager for IM Summit 2026**, MISA's flagship tech and busin
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Chic Couture](https://chic-couture-a75n.vercel.app/))** | Full-stack product catalog for a jewelry business — admin panel, customer inquiries, deployed for a real client | Next.js · TypeScript · Supabase |
-| **[Pop Up]** | Two-sided marketplace connecting event hosts with pop-up businesses for booth placements | React · Supabase |
-| **[Mayumi Cards]** | Minimalist Japanese flashcard app with spaced repetition (SRS) and CSV imports | Next.js · TypeScript |
+| **[Chic Couture](https://chic-couture-a75n.vercel.app/)** | Full-stack product catalog for a jewelry business — admin panel, customer inquiries, deployed for a real client | Next.js · TypeScript · Supabase |
+| **[Pop Up](https://popup-iota.vercel.app/)** | Two-sided marketplace connecting event hosts with pop-up businesses for booth placements | React · Supabase |
+| **[Mayumi Cards](https://sico-opal.vercel.app/)** | Minimalist Japanese flashcard app with spaced repetition (SRS) and CSV imports | Next.js · TypeScript |
 
 
 ---
