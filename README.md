@@ -2,7 +2,7 @@
 
 **CS · Ateneo de Manila University · Building at the intersection of web products and data**
 
-I'm a second-year Computer Science student specializing in Data Science & Analytics. I build full-stack web products with real users — and I'm expanding into data science to bring analytical depth to everything I ship.
+I'm a Computer Science student at Ateneo de Manila University specializing in Data Science & Analytics. I build full-stack web products with real users — and I'm expanding into data science to bring analytical depth to everything I ship.
 
 Served as **Product Manager for IM Summit 2026**, MISA's flagship tech and business case competition, where I led a team of developers and designers delivering the event platform.
 
