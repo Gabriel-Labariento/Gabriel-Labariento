@@ -1,90 +1,40 @@
-# Gabe Labariento
+# Gabriel Matthew Labariento
 
-**CS · Ateneo de Manila University · Full-stack products + data science**
+I build web apps and AI tools. I'm studying Computer Science at Ateneo de Manila University on the Data Science & Analytics track, with graduation expected in May 2028. I'm a Director's List Scholar with First Honors and a QPI of 3.90/4.00.
 
-I'm a Computer Science student at Ateneo de Manila University on the **Data Science & Analytics** track (QPI 3.89/4.00, Summa Cum Laude standing — Director's List Scholar, top 2% of applicants). I ship full-stack web products for real users and build ML/data pipelines to give that work analytical depth — from churn models to agentic AI systems that have placed top-3 in national competitions.
+[Portfolio](https://gmpl.dev) · [LinkedIn](https://linkedin.com/in/gabriel-labariento) · [Email](mailto:gabrielmatthew.labariento@gmail.com)
 
----
+## What I'm working on
 
-### What I work with
+At **Pasifika Hub**, I'm the freelance software engineer and product lead for **Maui Cart**, a mobile-first commerce PWA for cross-border shopping. I've shipped the catalog, customer accounts, checkout, order tracking, payment-proof verification, and staff order workflows. The app uses Next.js, TypeScript, Convex, Clerk, Cloudflare R2, and Resend, with automated tests and GitHub Actions checks.
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+At **MISA**, I'm Associate Vice President for IT Skills & Development, leading 20+ student developers. I also built an internal project management tool that brings together project guides across 7 organizational clusters for 60+ members using Next.js and Convex.
 
-**Data Science & ML**  
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+Previously, I was an **HR + Data Intern at Dashlabs.ai (YC W21)** from June to July 2026. I built an HR management system that cut onboarding time by roughly two-thirds and migrated 300+ employee records into a normalized PostgreSQL schema on Supabase.
 
-**Web & Full-Stack**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logoColor=white)
+## Selected projects
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### [Meera](https://github.com/CJ-Uy/meera)
 
----
+An AI intake system for university service desks. It interprets requests in plain language, classifies them, attempts automated resolution, and routes unresolved cases to the right team. Built with React, Next.js, Cloudflare D1/R2, Groq/Ollama, and voice transcription.
 
-### Selected work
+Our team finished **2nd runner-up at the KPMG Academic Innovation Challenge 2026**, among 100+ teams nationwide.
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Meera](https://meera.cjuy.dev)** | Agentic AI intake system that takes service-desk requests in plain language, auto-resolves what it can, and routes the rest — **top 3 of 100+ teams @ KPMG Academic Innovation Challenge** | React · Next.js · Cloudflare D1/R2 · Groq/Ollama |
-| **Telecom Churn Prediction** | End-to-end churn pipeline on a 100K-customer dataset; XGBoost top-risk decile captured churners at 78% (**1.6× lift**), mapped to rule-based retention actions | Python · scikit-learn · XGBoost |
-| **[Schrollar](https://schrollar.cjuy.dev)** | Turns natural-language research queries into curated academic-paper feeds (140+ papers across 16+ streams at launch) — **3rd of 100+ @ GDG Loyola Hackfest** | Next.js |
+### [Schrollar](https://github.com/CJ-Uy/schrollar)
 
----
+A research platform that turns natural-language queries into curated academic-paper feeds. At launch, it aggregated 140+ papers across 16+ research streams. The retrieval pipeline draws from OpenAlex, CrossRef, Semantic Scholar, and SearXNG, with a local LLM and DeBERTa-v3 NLI to check generated claims against retrieved evidence.
 
-### Experience
+Built in a two-week sprint and placed **3rd at GDG Loyola Hackfest 2026**, among 100+ participants.
 
-- **Eskwelabs** — *Data Modeling Intern* · built an end-to-end EDA + modeling pipeline on contract-renewal data, translating findings into projected renewal-impact scenarios
-- **[Dashlabs.ai](https://dashlabs.ai) (YC W21)** — *HR + Data Intern* · shipped an internal HRIS that cut onboarding time by ~⅔ and migrated 300+ employee records onto a normalized PostgreSQL/Supabase schema
-- **CompSAt** — *Project Head, Seniors' Send-Off × LoopBack 2026* · led a 110-attendee event, PHP 120K+ budget, 7 committees → 4.91/5 satisfaction
-- **MISA** — *Product Manager, IM Summit Website* · directed the full dev lifecycle for the summit's central info hub, unblocking a team of 4 to ship on time
+## Tools I use
 
----
+- **Languages:** TypeScript, JavaScript, Python, SQL, Java
+- **Web and backend:** React, Next.js, Node.js, Flask, Convex, Supabase, PostgreSQL, Tailwind CSS
+- **Cloud and infrastructure:** Vercel, Cloudflare R2/D1, Docker, Clerk, Resend
+- **Data and AI:** pandas, NumPy, scikit-learn, Ollama, LLM orchestration, Tableau
+- **Development:** Git, GitHub, Vitest, Testing Library, VS Code, Cursor, Codex
 
-### Background
+## More background
 
-- **Director's List Scholar** — top 2% of applicants, Ateneo de Manila University (Summa Cum Laude standing, QPI 3.89/4.00)
-- **CS50** — Harvard's Introduction to Computer Science
-- **Google** — Foundations of Data Science · Go Beyond the Numbers (Translate Data into Insights)
-
----
-
-### GitHub
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gabriel-Labariento&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Labariento&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Labariento&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=58a6ff&text_color=c9d1d9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Labariento&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="Top languages" />
-  </picture>
-</p>
-
----
-
-<p>
-  <a href="https://portfolio-pi-one-74.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/gabriel-labariento/">LinkedIn</a> ·
-  <a href="mailto:gabrielmatthew.labariento@gmail.com">Email</a>
-</p>
+- **2nd runner-up, OpenAI Buildathon Manila 2026**, among 250 participants.
+- Training in **AWS Cloud Practitioner Essentials** and **CS50: Introduction to Computer Science**.
