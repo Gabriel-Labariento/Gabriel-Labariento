@@ -1,6 +1,6 @@
 # Gabriel Matthew Labariento
 
-I build web apps and AI tools. I'm studying Computer Science at Ateneo de Manila University on the Data Science & Analytics track, with graduation expected in May 2028. I'm a Director's List Scholar with First Honors and a QPI of 3.90/4.00.
+I build web apps and AI tools. I'm studying Computer Science at Ateneo de Manila University on the Data Science & Analytics track. I'm a recipient of the university's Director's List Scholarship, given to the top 1% of its applicants. I also maintain a First Honors distinction and a GWA of 3.90/4.00.
 
 [Portfolio](https://gmpl.dev) · [LinkedIn](https://linkedin.com/in/gabriel-labariento) · [Email](mailto:gabrielmatthew.labariento@gmail.com)
 
