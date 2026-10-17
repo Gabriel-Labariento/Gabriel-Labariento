@@ -10,7 +10,7 @@ At **Pasifika Hub**, I'm the freelance software engineer and product lead for **
 
 At **MISA**, I'm Associate Vice President for IT Skills & Development, leading 20+ student developers. I also built an internal project management tool that brings together project guides across 7 organizational clusters for 60+ members using Next.js and Convex.
 
-Previously, I was an **HR + Data Intern at Dashlabs.ai (YC W21)** from June to July 2026. I built an HR management system that cut onboarding time by roughly two-thirds and migrated 300+ employee records into a normalized PostgreSQL schema on Supabase.
+Previously, I was an **HR + Data Intern at Dashlabs.ai (YC W21)** from June to July 2026. I built an HR management system that cut onboarding time by roughly two-thirds and migrated 1000+ employee records into a normalized PostgreSQL schema on Supabase.
 
 ## Selected projects
 
